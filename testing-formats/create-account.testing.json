@@ -1,0 +1,45 @@
+{
+  "country": "US",
+  "type": "custom",
+  "capabilities": {
+    "card_payments": { "requested": true },
+    "transfers": { "requested": true }
+  },
+  "business_type": "individual",
+  "individual": {
+    "first_name": "Viola",
+    "last_name": "Adams V",
+    "email": "fhamill@hotmail.com",
+    "dob": {
+      "day": 9,
+      "month": 5,
+      "year": 1995
+    },
+    "address": {
+      "line1": "215 Gusikowski Flats",
+      "city": "Jonesboro",
+      "postal_code": "76538",
+      "state": "TX",
+      "country": "US"
+    },
+    "phone": "+1-339-893-7199",
+    "ssn_last_4": "0000"
+  },
+  "email": "fhamill@hotmail.com",
+  "external_account": {
+    "object": "bank_account",
+    "account_number": "000999999991",
+    "routing_number": "110000000",
+    "country": "US",
+    "currency": "usd"
+  },
+  "business_profile": {
+    "mcc": "7997",
+    "support_url": "www.xyz.com",
+    "url": "www.xyz.com"
+  },
+  "tos_acceptance": {
+    "date": 1609798905,
+    "ip": "8.8.8.8"
+  }
+}
